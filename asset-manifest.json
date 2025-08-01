@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sweet-connect/static/css/main.08496983.css",
-    "main.js": "/sweet-connect/static/js/main.9c08fcb4.js",
+    "main.js": "/sweet-connect/static/js/main.4145fe16.js",
     "static/css/775.487bbdf8.chunk.css": "/sweet-connect/static/css/775.487bbdf8.chunk.css",
     "static/js/775.357b12c0.chunk.js": "/sweet-connect/static/js/775.357b12c0.chunk.js",
     "static/css/294.ff63ac42.chunk.css": "/sweet-connect/static/css/294.ff63ac42.chunk.css",
@@ -15,7 +15,7 @@
     "static/media/call.png": "/sweet-connect/static/media/call.7cb68d89441660ef1444.png",
     "index.html": "/sweet-connect/index.html",
     "main.08496983.css.map": "/sweet-connect/static/css/main.08496983.css.map",
-    "main.9c08fcb4.js.map": "/sweet-connect/static/js/main.9c08fcb4.js.map",
+    "main.4145fe16.js.map": "/sweet-connect/static/js/main.4145fe16.js.map",
     "775.487bbdf8.chunk.css.map": "/sweet-connect/static/css/775.487bbdf8.chunk.css.map",
     "775.357b12c0.chunk.js.map": "/sweet-connect/static/js/775.357b12c0.chunk.js.map",
     "294.ff63ac42.chunk.css.map": "/sweet-connect/static/css/294.ff63ac42.chunk.css.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.08496983.css",
-    "static/js/main.9c08fcb4.js"
+    "static/js/main.4145fe16.js"
   ]
 }
