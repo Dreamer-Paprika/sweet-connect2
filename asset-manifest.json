@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/sweet-connect/static/css/main.08496983.css",
+    "main.js": "/sweet-connect/static/js/main.9c08fcb4.js",
+    "static/css/775.487bbdf8.chunk.css": "/sweet-connect/static/css/775.487bbdf8.chunk.css",
+    "static/js/775.357b12c0.chunk.js": "/sweet-connect/static/js/775.357b12c0.chunk.js",
+    "static/css/294.ff63ac42.chunk.css": "/sweet-connect/static/css/294.ff63ac42.chunk.css",
+    "static/js/294.6c035218.chunk.js": "/sweet-connect/static/js/294.6c035218.chunk.js",
+    "static/css/962.8f236d0b.chunk.css": "/sweet-connect/static/css/962.8f236d0b.chunk.css",
+    "static/js/962.0c6ec893.chunk.js": "/sweet-connect/static/js/962.0c6ec893.chunk.js",
+    "static/css/433.738574c9.chunk.css": "/sweet-connect/static/css/433.738574c9.chunk.css",
+    "static/js/433.82279af0.chunk.js": "/sweet-connect/static/js/433.82279af0.chunk.js",
+    "static/css/461.89f4b726.chunk.css": "/sweet-connect/static/css/461.89f4b726.chunk.css",
+    "static/js/461.2dd7783c.chunk.js": "/sweet-connect/static/js/461.2dd7783c.chunk.js",
+    "static/media/call.png": "/sweet-connect/static/media/call.7cb68d89441660ef1444.png",
+    "index.html": "/sweet-connect/index.html",
+    "main.08496983.css.map": "/sweet-connect/static/css/main.08496983.css.map",
+    "main.9c08fcb4.js.map": "/sweet-connect/static/js/main.9c08fcb4.js.map",
+    "775.487bbdf8.chunk.css.map": "/sweet-connect/static/css/775.487bbdf8.chunk.css.map",
+    "775.357b12c0.chunk.js.map": "/sweet-connect/static/js/775.357b12c0.chunk.js.map",
+    "294.ff63ac42.chunk.css.map": "/sweet-connect/static/css/294.ff63ac42.chunk.css.map",
+    "294.6c035218.chunk.js.map": "/sweet-connect/static/js/294.6c035218.chunk.js.map",
+    "962.8f236d0b.chunk.css.map": "/sweet-connect/static/css/962.8f236d0b.chunk.css.map",
+    "962.0c6ec893.chunk.js.map": "/sweet-connect/static/js/962.0c6ec893.chunk.js.map",
+    "433.738574c9.chunk.css.map": "/sweet-connect/static/css/433.738574c9.chunk.css.map",
+    "433.82279af0.chunk.js.map": "/sweet-connect/static/js/433.82279af0.chunk.js.map",
+    "461.89f4b726.chunk.css.map": "/sweet-connect/static/css/461.89f4b726.chunk.css.map",
+    "461.2dd7783c.chunk.js.map": "/sweet-connect/static/js/461.2dd7783c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08496983.css",
+    "static/js/main.9c08fcb4.js"
+  ]
+}
