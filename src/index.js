@@ -9,7 +9,7 @@ import './index.css';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
-      <BrowserRouter basename="sweet-connect">
+      <BrowserRouter basename="sweet-connect2">
         <App />
       </BrowserRouter>
     </Provider>
