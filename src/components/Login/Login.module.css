@@ -1,0 +1,137 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    
+  
+}
+
+.loginContainer{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+}
+
+.inputText{
+display: block;
+margin-top: 1px;
+margin-bottom: 10px;
+color: #c4253a;
+}
+
+.inputTextInfo{
+display: block;
+margin-top: 2px;
+margin-bottom: 2px;
+}
+
+.inputButton{
+    padding: 7px;
+    background-color: #FFA5BA;
+    font-family: 'DM Sans';
+    color: #c4253a;
+    font-weight: 700;
+    border-radius: 30px;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    text-align: center;
+    margin: 2px;
+}
+
+.inputButton:hover{
+  color: #fff;
+}
+
+.form {
+  width: 320px;
+   font-family: 'DM Sans';
+  color:#c4253a;
+  font-weight: 700;
+  text-align: center;
+  padding: 5px;
+}
+
+.input{
+    border-radius: 4px;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    margin-top: 3px;
+    padding: 10px;
+    background-color: #FFB8CA;
+    color: #c4253a;
+    border-radius: 30px;
+    box-shadow: inset 0 0 10px 5px rgba(0, 0, 0, 0.3);
+    border: 1px solid #fff;
+    
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+  text-align: start;
+  color: #fff;
+  font-family: "DM Sans";
+}
+
+.formContainer{
+  border-radius: 30px;
+  padding: 10px;
+  background-image: linear-gradient(rgb(196, 37, 58) 40%, rgb(255, 184, 202));
+  border: none;
+}
+
+
+
+
+.frame{
+  border-radius: 50%;
+  background-color: #FFB8CA;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 80px;
+  box-shadow: inset 0 0 10px 5px rgba(0, 0, 0, 0.3);
+  border: 3px solid #fff;}
+
+
+
+.iconLabel{
+  font-family: 'Sacramento';
+  font-size: 40px;
+  color: #fff;
+  text-shadow: 3px 3px 20px rgb(114, 17, 17), 5px 5px 5px #000000;
+  margin: 5px;
+}
+
+.iconLabel::first-letter {
+    font-size: 30px;
+  }
+
+
+
+.logo{
+  font-weight: 700;
+  display: flex;
+  align-items: flex-end;
+}
+
+
+.symbol{
+  text-decoration: none;
+  transition-property: transform;
+  transition-duration: 250ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.symbol:hover {
+    transform: scale(1.1);
+    
+  }
+

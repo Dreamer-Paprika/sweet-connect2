@@ -1,0 +1,102 @@
+.coverWrapper{
+  position: relative;
+}
+
+.cover{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+}
+
+.keyModal{ 
+  background-image: linear-gradient(to bottom, #c4253a 40%, #ffb8ca);
+  padding: 20px;
+  display:flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 5px;
+  border-radius: 30px;
+  border: none;
+  color: #fff;
+}
+
+.keyModalLabel{
+  font-family: 'DM Sans';
+  color: #fff;
+  font-weight: 700;
+  margin: 10px;
+}
+
+.keyModalButton{
+  padding: 10px;
+  background-color:#FFA5BA;
+  border: none;
+  font-family: 'DM Sans';
+  color:#c4253a;
+  font-size: 18px;
+  font-weight: 700;
+  border: none;
+  border-radius: 30px;
+  cursor: pointer;
+  filter: drop-shadow(0px 8px 8px rgba(0, 0, 0, 0.3));
+}
+
+.keyModalButton:hover{
+  color: #fff;
+}
+
+
+.form {
+  width: 320px;
+  font-family: 'DM Sans';
+  color: #fff;
+  font-weight: 700;
+  text-align: center;
+  padding: 5px;
+}
+
+.input{
+       border-radius: 4px;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    margin-top: 3px;
+    padding: 10px;
+    background-color: #FFB8CA;
+    color: #c4253a;
+    border-radius: 30px;
+    box-shadow: inset 0 0 10px 5px rgba(0, 0, 0, 0.3);
+    border: 1px solid #fff;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+  text-align: start;
+}
+
+.formContainer{
+  border-radius: 30px;
+  padding: 10px;
+  background-color: #FFA5BA;
+  border: none;
+  filter: drop-shadow(0px 8px 8px rgba(0, 0, 0, 0.3));
+}
+
+
+
+
+
+
+
+
+
+
+
+

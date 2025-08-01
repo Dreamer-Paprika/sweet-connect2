@@ -1,0 +1,57 @@
+.formLabel {
+   display: inline-block;
+    font-weight: 700;
+    margin-bottom: 3px;
+    color: #fff;
+    background-color: #c4253a;
+    border: 2px solid #fff;
+    border-radius: 30px;
+    padding: 8px;
+    margin-bottom: 3px;
+}
+
+.formInput {
+    display: block;
+    background-color: #FFB8CA;
+    color: #c4253a;
+    padding: 10px;
+    border-radius: 30px;
+    font-family: 'DM Sans';
+    font-weight: 700;
+    margin-top: 3px;
+    border: 1px solid #fff;
+    box-shadow: inset 0 0 10px 5px rgba(0, 0, 0, 0.3);
+}
+
+
+
+.contactsList {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  list-style: circle;
+  margin-top: 10px;
+      background-color: #FFB8CA;
+    border: 2px solid #fff;
+    border-radius: 4px;
+    padding: 6px;
+}
+
+.contactsData{
+  background-color: #FFB8CA;
+  border: 1px solid #fff;
+    border-radius: 4px;
+    padding: 3px;
+    font-weight: 700;
+    color: #c4253a;
+}
+
+.contactsItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #c4253a;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    padding: 5px;
+}
