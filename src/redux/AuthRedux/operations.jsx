@@ -16,6 +16,9 @@ const clearAuthHeader = () => {
 export const register = createAsyncThunk(
   'auth/register',
   async ({ name, email, password }, thunkAPI) => {
+    alert(
+      'Please wait a bit, first requests can take up to 60 seconds because the backend is hosted with a free plan'
+    );
     Notiflix.Loading.pulse('Registering Your Account...', {
       svgColor: '#FFB8CA',
       fontFamily: 'DM Sans',
@@ -39,6 +42,9 @@ export const register = createAsyncThunk(
 export const logIn = createAsyncThunk(
   'auth/login',
   async ({ email, password }, thunkAPI) => {
+    alert(
+      'Please wait a bit, first requests can take up to 60 seconds because the backend is hosted with a free plan'
+    );
     Notiflix.Loading.pulse('Logging You In...', {
       svgColor: '#FFB8CA',
       fontFamily: 'DM Sans',
